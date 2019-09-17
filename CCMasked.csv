@@ -1,0 +1,250 @@
+Country;Country Name;Label
+AF;Afghanistan;Sanderson Label
+AX;Aland Islands;Tolkien
+AL;Albania;Sanderson Label
+DZ;Algeria;GRRM Label
+AS;American Samoa;Sanderson Label
+AD;Andorra;Sanderson Label
+AO;Angola;Tolkien
+AI;Anguilla;Tolkien
+AQ;Antarctica;GRRM Label
+AG;Antigua and Barbuda;Sanderson Label
+AR;Argentina;GRRM Label
+AM;Armenia;Tolkien
+AW;Aruba;Tolkien
+AU;Australia;Sanderson Label
+AT;Austria;GRRM Label
+AZ;Azerbaijan;Sanderson Label
+BH;Bahrain;Sanderson Label
+BS;Bahamas;Tolkien
+BD;Bangladesh;Sanderson Label
+BB;Barbados;GRRM Label
+BY;Belarus;Sanderson Label
+BE;Belgium;Sanderson Label
+BZ;Belize;Sanderson Label
+BJ;Benin;Tolkien
+BM;Bermuda;Tolkien
+BT;Bhutan;GRRM Label
+BO;Bolivia, Plurinational State of;Tolkien
+BQ;Bonaire, Sint Eustatius and Saba;Tolkien
+BA;Bosnia and Herzegovina;Sanderson Label
+BW;Botswana;Sanderson Label
+BV;Bouvet Island;GRRM Label
+BR;Brazil;Sanderson Label
+IO;British Indian Ocean Territory;GRRM Label
+BN;Brunei Darussalam;Tolkien
+BG;Bulgaria;Sanderson Label
+BF;Burkina Faso;GRRM Label
+BI;Burundi;GRRM Label
+KH;Cambodia;GRRM Label
+CM;Cameroon;Sanderson Label
+CA;Canada;GRRM Label
+CV;Cape Verde;Sanderson Label
+KY;Cayman Islands;Tolkien
+CF;Central African Republic;GRRM Label
+TD;Chad;GRRM Label
+CL;Chile;Sanderson Label
+CN;China;GRRM Label
+CX;Christmas Island;GRRM Label
+CC;Cocos (Keeling) Islands;GRRM Label
+CO;Colombia;GRRM Label
+KM;Comoros;Sanderson Label
+CG;Congo;GRRM Label
+CD;Congo, the Democratic Republic of the;GRRM Label
+CK;Cook Islands;Tolkien
+CR;Costa Rica;GRRM Label
+CI;Côte d'Ivoire;Sanderson Label
+HR;Croatia;GRRM Label
+CU;Cuba;GRRM Label
+CW;Curaçao;Sanderson Label
+CY;Cyprus;GRRM Label
+CZ;Czech Republic;Tolkien
+DK;Denmark;GRRM Label
+DJ;Djibouti;GRRM Label
+DM;Dominica;Tolkien
+DO;Dominican Republic;Tolkien
+EC;Ecuador;Sanderson Label
+EG;Egypt;GRRM Label
+SV;El Salvador;Tolkien
+GQ;Equatorial Guinea;Sanderson Label
+ER;Eritrea;GRRM Label
+EE;Estonia;Sanderson Label
+ET;Ethiopia;Sanderson Label
+FK;Falkland Islands (Malvinas);Tolkien
+FO;Faroe Islands;Tolkien
+FJ;Fiji;GRRM Label
+FI;Finland;Tolkien
+FR;France;Tolkien
+GF;French Guiana;Sanderson Label
+PF;French Polynesia;GRRM Label
+TF;French Southern Territories;Tolkien
+GA;Gabon;GRRM Label
+GM;Gambia;Tolkien
+GE;Georgia;GRRM Label
+DE;Germany;Sanderson Label
+GH;Ghana;Tolkien
+GI;Gibraltar;Sanderson Label
+GR;Greece;Tolkien
+GL;Greenland;Tolkien
+GD;Grenada;Tolkien
+GP;Guadeloupe;Sanderson Label
+GU;Guam;Sanderson Label
+GT;Guatemala;Sanderson Label
+GG;Guernsey;Sanderson Label
+GN;Guinea;GRRM Label
+GW;Guinea-Bissau;SK Label
+GY;Guyana;SK Label
+HT;Haiti;GRRM Label
+HM;Heard Island and McDonald Islands;Tolkien
+VA;Holy See (Vatican City State);SK Label
+HN;Honduras;Tolkien
+HK;Hong Kong;GRRM Label
+HU;Hungary;Tolkien
+IS;Iceland;Tolkien
+IN;India;Sanderson Label
+ID;Indonesia;SK Label
+IR;Iran, Islamic Republic of;H.O.B.B.
+IQ;Iraq;SK Label
+IE;Ireland;GRRM Label
+IM;Isle of Man;H.O.B.B.
+IL;Israel;SK Label
+IT;Italy;SK Label
+JM;Jamaica;SK Label
+JP;Japan;SK Label
+JE;Jersey;H.O.B.B.
+JO;Jordan;JK
+KZ;Kazakhstan;JK
+KE;Kenya;SK Label
+KI;Kiribati;Sanderson Label
+KP;Korea, Democratic People's Republic of;Tolkien
+KR;Korea, Republic of;GRRM Label
+KW;Kuwait;JK
+KG;Kyrgyzstan;Sanderson Label
+LA;Lao People's Democratic Republic;JK
+LV;Latvia;Sanderson Label
+LB;Lebanon;Tolkien
+LS;Lesotho;JK
+LR;Liberia;Sanderson Label
+LY;Libya;GRRM Label
+LI;Liechtenstein;Tolkien
+LT;Lithuania;Sanderson Label
+LU;Luxembourg;SK Label
+MO;Macao;Tolkien
+MK;Macedonia, the Former Yugoslav Republic of;Sanderson Label
+MG;Madagascar;Tolkien
+MW;Malawi;GRRM Label
+MY;Malaysia;GRRM Label
+MV;Maldives;Tolkien
+ML;Mali;H.O.B.B.
+MT;Malta;SK Label
+MH;Marshall Islands;H.O.B.B.
+MQ;Martinique;SK Label
+MR;Mauritania;JK
+MU;Mauritius;Tolkien
+YT;Mayotte;Sanderson Label
+MX;Mexico;GRRM Label
+FM;Micronesia, Federated States of;Sanderson Label
+MD;Moldova, Republic of;GRRM Label
+MC;Monaco;Tolkien
+MN;Mongolia;H.O.B.B.
+ME;Montenegro;SK Label
+MS;Montserrat;Sanderson Label
+MA;Morocco;Tolkien
+MZ;Mozambique;H.O.B.B.
+MM;Myanmar;Sanderson Label
+NA;Namibia;Sanderson Label
+NR;Nauru;SK Label
+NP;Nepal;Sanderson Label
+NL;Netherlands;SK Label
+NC;New Caledonia;GRRM Label
+NZ;New Zealand;H.O.B.B.
+NI;Nicaragua;H.O.B.B.
+NE;Niger;Tolkien
+NG;Nigeria;H.O.B.B.
+NU;Niue;JK
+NF;Norfolk Island;H.O.B.B.
+MP;Northern Mariana Islands;Tolkien
+NO;Norway;Sanderson Label
+OM;Oman;GRRM Label
+PK;Pakistan;JK
+PW;Palau;Sanderson Label
+PS;Palestine, State of;Sanderson Label
+PA;Panama;Sanderson Label
+PG;Papua New Guinea;Sanderson Label
+PY;Paraguay;Tolkien
+PE;Peru;SK Label
+PH;Philippines;Tolkien
+PN;Pitcairn;SK Label
+PL;Poland;GRRM Label
+PT;Portugal;H.O.B.B.
+PR;Puerto Rico;H.O.B.B.
+QA;Qatar;GRRM Label
+RE;Réunion;Sanderson Label
+RO;Romania;SK Label
+RU;Russian Federation;H.O.B.B.
+RW;Rwanda;Tolkien
+BL;Saint Barthélemy;H.O.B.B.
+SH;Saint Helena, Ascension and Tristan da Cunha;JK
+KN;Saint Kitts and Nevis;H.O.B.B.
+LC;Saint Lucia;Sanderson Label
+MF;Saint Martin (French part);JK
+PM;Saint Pierre and Miquelon;Sanderson Label
+VC;Saint Vincent and the Grenadines;Sanderson Label
+WS;Samoa;H.O.B.B.
+SM;San Marino;SK Label
+ST;Sao Tome and Principe;H.O.B.B.
+SA;Saudi Arabia;SK Label
+SN;Senegal;H.O.B.B.
+RS;Serbia;Sanderson Label
+SC;Seychelles;H.O.B.B.
+SL;Sierra Leone;GRRM Label
+SG;Singapore;Sanderson Label
+SX;Sint Maarten (Dutch part);H.O.B.B.
+SK;Slovakia;GRRM Label
+SI;Slovenia;JK
+SB;Solomon Islands;JK
+SO;Somalia;Tolkien
+ZA;South Africa;SK Label
+GS;South Georgia and the South Sandwich Islands;Sanderson Label
+SS;South Sudan;Tolkien
+ES;Spain;SK Label
+LK;Sri Lanka;SK Label
+SD;Sudan;GRRM Label
+SR;Suriname;Tolkien
+SJ;Svalbard and Jan Mayen;H.O.B.B.
+SZ;Swaziland;JK
+SE;Sweden;GRRM Label
+CH;Switzerland;Sanderson Label
+SY;Syrian Arab Republic;Tolkien
+TW;Taiwan, Province of China;JK
+TJ;Tajikistan;GRRM Label
+TZ;Tanzania, United Republic of;Sanderson Label
+TH;Thailand;Tolkien
+TL;Timor-Leste;H.O.B.B.
+TG;Togo;H.O.B.B.
+TK;Tokelau;Sanderson Label
+TO;Tonga;Sanderson Label
+TT;Trinidad and Tobago;Tolkien
+TN;Tunisia;Tolkien
+TR;Turkey;GRRM Label
+TM;Turkmenistan;H.O.B.B.
+TC;Turks and Caicos Islands;Tolkien
+TV;Tuvalu;GRRM Label
+UG;Uganda;JK
+UA;Ukraine;H.O.B.B.
+AE;United Arab Emirates;JK
+GB;United Kingdom;SK Label
+US;United States;H.O.B.B.
+UM;United States Minor Outlying Islands;GRRM Label
+UY;Uruguay;SK Label
+UZ;Uzbekistan;GRRM Label
+VU;Vanuatu;SK Label
+VE;Venezuela, Bolivarian Republic of;GRRM Label
+VN;Viet Nam;JK
+VG;Virgin Islands, British;H.O.B.B.
+VI;Virgin Islands, U.S.;JK
+WF;Wallis and Futuna;SK Label
+EH;Western Sahara;GRRM Label
+YE;Yemen;Tolkien
+ZM;Zambia;GRRM Label
+ZW;Zimbabwe;JK
